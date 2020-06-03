@@ -9,5 +9,5 @@ See [here](example.ipynb).
 I don't plan on further developing this.
 
 ## Disclaimer
-This is _obviously_ not intended for diagnosis! :sweat_smile:
+This is _obviously_ not intended for diagnostic purposes! :sweat_smile:
 
