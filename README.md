@@ -6,5 +6,8 @@ Currently, all this module offers is a pure python implementation of the Chronic
 See [here](example.ipynb).
 
 ## Contributing
-I don't plan on further developing this but happy to look at PRs if any show up :).
+I don't plan on further developing this but happy to look at PRs if any show up :simple_smile:.
+
+## Disclaimer
+This is _obviously_ not intended for diagnosis! :sweat_smile:
 
